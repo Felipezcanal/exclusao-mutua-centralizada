@@ -1,0 +1,1 @@
+# exclusao-mutua-centralizada
